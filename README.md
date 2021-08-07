@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I'm Suresh from India.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vj-suresh-sk)](https://github.com/vj-suresh-sk/github-readme-stats)
