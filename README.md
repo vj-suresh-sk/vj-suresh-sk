@@ -19,14 +19,11 @@ Here are some ideas to get you started:
 
 I'm Suresh from India.
 
+Subscribe Now! - https://bit.ly/3hGIP5L
+
 [![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vj-suresh-sk)](https://github.com/vj-suresh-sk/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vj-suresh-sk&layout=compact)](https://github.com/vj-suresh-sk/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
